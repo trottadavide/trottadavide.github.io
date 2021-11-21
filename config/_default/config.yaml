@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Davide Trotta # Website name
-baseurl: 'https://trottadavide/github.io/' # Website URL
+baseurl: 'https://trottadavide.github.io/Trotta-Davide/' # Website URL
 copyright: '' # Footer text, e.g. '© {year} Me'
 
 ############################
