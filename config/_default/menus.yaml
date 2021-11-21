@@ -17,7 +17,7 @@ main:
     url: '#talks'
     weight: 40
   - name: CV
-    url: static/uploads/curriculum.pdf
+    url: uploads/curriculum.pdf
     weight: 70
  
 
