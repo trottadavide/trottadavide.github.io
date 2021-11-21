@@ -1,0 +1,20 @@
+# Page Sharer
+# Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
+
+
+
+[[buttons]]
+  id = "email"
+  url = ""
+  title = "Email"
+  icon_pack = "fas"
+  icon = "envelope"
+  enable = false
+
+
+
+
+
+
+
+
