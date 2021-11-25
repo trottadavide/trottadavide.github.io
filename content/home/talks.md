@@ -33,4 +33,4 @@ design:
   view: 1
   columns: '1'
 ---
-Below you can find some slides and videos of recent talks. For a complete list of talks, yo can see my curriculum.
+Below you can find some slides and videos of recent talks. For a complete list of talks see my curriculum.
