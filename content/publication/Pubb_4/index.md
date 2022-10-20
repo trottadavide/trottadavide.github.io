@@ -28,10 +28,10 @@ publication_types: ["2"]
 publication: In *Journal of logic and computation*
 
 
-abstract: G ̈odel’s Dialectica interpretation was designed to obtain the consis-
+abstract: G odel’s Dialectica interpretation was designed to obtain the consis-
 tency of Peano arithmetic via a proof of consistency of Heyting arithmetic
 and double negation. In recent years, proof theoretic transformations (so-
-called proof interpretations) based on G ̈odel’s Dialectica interpretation
+called proof interpretations) based on G odel’s Dialectica interpretation
 have been used systematically to extract new content from proofs and so
 the interpretation has found relevant applications in several areas of math-
 ematics and computer science. Following our previous work on ‘G ̈odel fi-
