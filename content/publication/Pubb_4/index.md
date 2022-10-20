@@ -1,5 +1,5 @@
 ---
-title: "Dialectica logical principles, not only rules"
+title: "Dialectica logical principles not only rules"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
@@ -30,7 +30,7 @@ publication: In *Journal of logic and computation*
 
 abstract: Gödel's Dialectica interpretation was designed to obtain the consistency of Peano arithmetic via a proof of consistency of Heyting arithmetic
 and double negation. In recent years, proof theoretic transformations (socalled proof interpretations) based on Gödel's Dialectica interpretation
-have been used systematically to extract new content from proofs and sothe interpretation has found relevant applications in several areas of mathematics and computer science. Following our previous work on G̈odel fibrations, we present a (hyper)doctrine characterisation of the Dialectica which corresponds exactly to the logical description of the interpretation. To show that, we derive the soundness of the interpretation of the implication connective, as expounded on by Spector and Troelstra, in the categorical model. This requires extra logical principles, going beyond intuitionistic logic, namely Markov Principle (MP) and the Independence of Premise (IP) principle, as well as some choice. We show how these principles are satisfied in the categorical setting, establishing a tight (internal language) correspondence between the logical system and the categorical framework. We make sure that this tight correspondence extends to the
+have been used systematically to extract new content from proofs and sothe interpretation has found relevant applications in several areas of mathematics and computer science. Following our previous work on Gödel fibrations, we present a (hyper)doctrine characterisation of the Dialectica which corresponds exactly to the logical description of the interpretation. To show that, we derive the soundness of the interpretation of the implication connective, as expounded on by Spector and Troelstra, in the categorical model. This requires extra logical principles, going beyond intuitionistic logic, namely Markov Principle (MP) and the Independence of Premise (IP) principle, as well as some choice. We show how these principles are satisfied in the categorical setting, establishing a tight (internal language) correspondence between the logical system and the categorical framework. We make sure that this tight correspondence extends to the
 use of the principles above, instead of the weaker rules we had proved earlier on. This tight correspondence should come handy not only when discussing the traditional applications of the Dialectica but also when dealing with newer uses in modelling games or concurrency theory.
 
 
