@@ -27,7 +27,7 @@ publication_types: ["1"]
 publication: In *46th International Symposium on Mathematical Foundations of Computer Science (MFCS 2021)*
 
 
-abstract: We introduce the notion of a Gödel fibration, which is a fibration categorically embodying both the logical principles of traditional Skolemization (we can exchange the order of quantifiers paying the price of a functional) and the existence of a prenex normal form presentation for every logical formula.Building up from Hofstra's earlier fibrational characterization of de Paiva’s categorical Dialectica construction, we show that a fibration is an instance of the Dialectica construction if and only if it is a Gödel fibration. his result establishes an intrinsic presentation of the Dialectica fibration, contributing to the understanding of the Dialectica construction itself and of its properties from a logical perspective.
+abstract: We introduce the notion of a Gödel fibration, which is a fibration categorically embodying both the logical principles of traditional Skolemization (we can exchange the order of quantifiers paying the price of a functional) and the existence of a prenex normal form presentation for every logical formula.Building up from Hofstra's earlier fibrational characterization of de Paiva's categorical Dialectica construction, we show that a fibration is an instance of the Dialectica construction if and only if it is a Gödel fibration. his result establishes an intrinsic presentation of the Dialectica fibration, contributing to the understanding of the Dialectica construction itself and of its properties from a logical perspective.
 
 
 tags: []
