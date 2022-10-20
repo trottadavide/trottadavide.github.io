@@ -1,5 +1,5 @@
 ---
-title: "Dialectica logical principles: not only rules"
+title: "Dialectica logical principles, not only rules"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
