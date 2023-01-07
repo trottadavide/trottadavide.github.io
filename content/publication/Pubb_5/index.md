@@ -25,7 +25,7 @@ publishDate: "2022-10-10"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Annals of Pure and Applied Logic* (to appear)
+publication: In *Annals of Pure and Applied Logic*
 
 
 abstract: This paper aims to provide an intrinsic characterization of the notion of generalized existential completion of a conjunctive doctrine $P$ for a class $\Lambda$ of morphisms of the base category of $P$. The cornerstone of this result consists of an algebraic description of the logical concept of existential free formulas closely connected to the validity of some choice principles. The link between our characterization and choice principles is emphasized by the fact that an existential doctrine $P$ is the generalized existential completion of itself for all the projections of its base if and only if $P$ is equipped with Hilbert's epsilon operators. Our characterization provides a useful tool to recognize a wide variety of examples of doctrines arising as generalized existential completions. These include the subobjects doctrine and the weak subobjects doctrine of a category with finite limits as well all realizability triposes and among localic triposes only the supercoherent ones.
