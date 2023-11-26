@@ -1,21 +1,22 @@
 ---
-title: "A Presheaf Semanticsfor Quantified Temporal Logics "
+title: "A characterization of regular and exact completions of pure existential completions"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 
 # and it will be replaced with their full name and linked to their profile.
 authors:
-- Fabio Gadducci
+- Maria Emilia Maietti
 - admin
 
 
 
 
-date: "2021"
+
+date: "2023"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2021-11-06"
+publishDate: "2023-06-23"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -27,7 +28,7 @@ publication_types: ["3"]
 #publication: In *Theory and Applications of Categories*
 
 
-abstract: Temporal logics stands for a widely adopted family of formalisms forthe verification of computational devices, enriching propositional logics by oper-ators predicating on the step-wise behaviour of a system. Its quantified extensionsallow to reason on the properties of the individual components of the system athand. The expressiveness of the resulting logics poses problems in correctly iden-tifying a semantics that exploit its features without resorting to the imposition ofrestrictions on the acceptable behaviours. In this paper we address this issue bymeans of counterpart models and relational presheaves.
+abstract: The notion of existential completion in the context of Lawvere's doctrines was introduced by the second author in his PhD thesis, and it turned out to be a restriction to faithful fibrations of Peter Hofstra's construction used to characterize Dialectica fibrations. The notions of regular and exact completions of elementary and existential doctrines were brought up in recent works by the first author with F. Pasquali and P. Rosolini, inspired by those done by M. Hyland, P. Johnstone and A. Pitts on triposes. Here, we provide a characterization of the regular and exact completions of (pure) existential completions of elementary doctrines by showing that these amount to the 𝗋𝖾𝗀/𝗅𝖾𝗑 and 𝖾𝗑/𝗅𝖾𝗑-completions, respectively, of the category of predicates of their generating elementary doctrines. This characterization generalizes a previous result obtained by the first author with F. Pasquali and P. Rosolini on doctrines equipped with Hilbert's ϵ-operators. Relevant examples of applications of our characterization, quite different from those involving doctrines with Hilbert's ϵ-operators, include the regular syntactic category of the regular fragments of first-order logic (and his effectivization) as well as the construction of Joyal's Arithmetic Universes. 
 
 
 
@@ -41,7 +42,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://arxiv.org/pdf/2111.03855.pdf '
+url_pdf: 'https://arxiv.org/pdf/2306.13610.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -53,4 +54,4 @@ url_video: ''
 
 ---
 
-Temporal logics stands for a widely adopted family of formalisms forthe verification of computational devices, enriching propositional logics by oper-ators predicating on the step-wise behaviour of a system. Its quantified extensionsallow to reason on the properties of the individual components of the system athand. The expressiveness of the resulting logics poses problems in correctly iden-tifying a semantics that exploit its features without resorting to the imposition ofrestrictions on the acceptable behaviours. In this paper we address this issue bymeans of counterpart models and relational presheaves.
+The notion of existential completion in the context of Lawvere's doctrines was introduced by the second author in his PhD thesis, and it turned out to be a restriction to faithful fibrations of Peter Hofstra's construction used to characterize Dialectica fibrations. The notions of regular and exact completions of elementary and existential doctrines were brought up in recent works by the first author with F. Pasquali and P. Rosolini, inspired by those done by M. Hyland, P. Johnstone and A. Pitts on triposes. Here, we provide a characterization of the regular and exact completions of (pure) existential completions of elementary doctrines by showing that these amount to the $𝗋𝖾𝗀/𝗅𝖾𝗑$ and $𝖾𝗑/𝗅𝖾𝗑$-completions, respectively, of the category of predicates of their generating elementary doctrines. This characterization generalizes a previous result obtained by the first author with F. Pasquali and P. Rosolini on doctrines equipped with Hilbert's ϵ-operators. Relevant examples of applications of our characterization, quite different from those involving doctrines with Hilbert's ϵ-operators, include the regular syntactic category of the regular fragments of first-order logic (and his effectivization) as well as the construction of Joyal's Arithmetic Universes. 
