@@ -10,7 +10,7 @@ headless: true
 weight: 80
 #40
 title: 'Selected Talks'
-subtitle:
+subtitle: 'Below you can find some slides and videos of recent talks. For a complete list of talks see my curriculum.'
 
 content:
   # Page type to display. E.g. post, event, publication...
@@ -33,4 +33,3 @@ design:
   view: 1
   columns: '1'
 ---
-Below you can find some slides and videos of recent talks. For a complete list of talks see my curriculum.
