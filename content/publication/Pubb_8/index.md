@@ -15,7 +15,7 @@ authors:
 
 
 date: "2023"
-doi: ""
+doi: "10.4230/LIPICS.CALCO.2023.16"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-09-02"

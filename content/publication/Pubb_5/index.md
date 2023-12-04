@@ -13,7 +13,7 @@ authors:
 
 
 date: "2023"
-doi: ""
+doi: "https://doi.org/10.1016/j.apal.2022.103234"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2023-01-01"

@@ -12,7 +12,7 @@ authors:
 
 
 date: "2020"
-doi: ""
+doi: "10.4230/LIPIcs.MFCS.2021.87"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2021-08-01"

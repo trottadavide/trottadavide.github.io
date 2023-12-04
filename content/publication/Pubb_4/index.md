@@ -13,7 +13,7 @@ authors:
 
 
 date: "2022"
-doi: ""
+doi: "10.1093/logcom/exac079"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2022-10-10"
