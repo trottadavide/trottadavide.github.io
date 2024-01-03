@@ -27,8 +27,8 @@ tags: []
 
 
 url_code: ""
-url_pdf: ""
-url_slides: ""
+url_pdf: "https://events.math.unipd.it/WDF2023/abstract/invited/Trotta.pdf"
+url_slides: "https://events.math.unipd.it/WDF2023/slides/TROTTA.pdf"
 url_video: "https://www.youtube.com/watch?v=zcRKa7eFYCg&list=PLu4STGsfbix9vBUvLDbti64_3hIsoK0-R&index=5"
 
 

@@ -30,7 +30,7 @@ tags: []
 url_code: ""
 url_pdf: "https://sites.uclouvain.be/ct2023/img/abstracts.pdf"
 url_slides: "https://sites.uclouvain.be/ct2023/supports/2_TUESDAY/Trotta.pdf"
-url_video: ""
+url_video: "https://www.youtube.com/watch?v=tattxMdwMMU&list=PLu4STGsfbix9l6rPxGsjG6Gl822k1hj2X&index=3"
 
 
 
