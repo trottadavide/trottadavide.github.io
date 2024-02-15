@@ -45,9 +45,9 @@ social:
 - icon: at
   icon_pack: fas
   link: 'mailto: trottadavide92@gmail.com'
-- icon: address-card
-  icon_pack: far
-  link: uploads/curriculum.pdf
+#- icon: address-card
+#  icon_pack: far
+  #link: uploads/curriculum.pdf
   
   
 # Link to a PDF of your resume/CV.
@@ -59,10 +59,10 @@ social:
 email: "trottadavide92@gmail.com"
 
 # Highlight the author in author lists? (true/false)
+ 
+ # Currently, I am a postdoc at the Department of Computer Science of the University of Pisa in Italy. Previously, I was a postdoc at the Department of Computer Science of the University of Verona in Italy.
+ 
 highlight_name: true
 ---
 
- I am a mathematician, and my research is mainly focused on categorical logic and its applications in theoretical computer science. 
- 
- Currently, I am a postdoc at the Department of Computer Science of the University of Pisa in Italy. Previously, I was a postdoc at the Department of Computer Science of the University of Verona in Italy.
- 
+  I am a mathematician, and my research is mainly focused on categorical logic and its applications.
