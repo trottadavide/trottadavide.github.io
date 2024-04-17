@@ -65,4 +65,3 @@ email: "trottadavide92@gmail.com"
 highlight_name: true
 ---
 
-  I am a mathematician, and my research is mainly focused on categorical logic and its applications.
