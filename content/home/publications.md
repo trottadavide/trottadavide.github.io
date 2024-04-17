@@ -1,7 +1,7 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: featured
+widget: pages
 
 # This file represents a page section.
 headless: true
@@ -10,13 +10,13 @@ headless: true
 weight: 40
 #90
 title: Publications
-subtitle: ''
+subtitle: 'Here you can find the list of my publications and accepted papers'
 
 content:
   # Page type to display. E.g. post, talk, publication...
-  page_type: publication
+  page_type: publications
   # Choose how much pages you would like to display (0 = all pages)
-  count: 8
+  count: 0
   # Choose how many pages you would like to offset by
   offset: 0
   # Page order: descending (desc) or ascending (asc) date.
