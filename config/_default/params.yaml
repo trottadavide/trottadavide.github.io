@@ -45,19 +45,19 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: ''
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
-      share_alike: true
+      share_alike: false
       allow_commercial: false
 
 # Localization
 
-locale:
-  date_format: 'Jan 2, 2006'
-  time_format: '3:04 PM'
-  address_format: en-us
+#locale:
+ # date_format: ''
+ # time_format: ''
+ # address_format: en-us
 
 # Site features
 
@@ -66,7 +66,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
@@ -98,7 +98,7 @@ features:
   map:
     provider: 'mapnik'
     api_key: ''
-    zoom: 15
+    zoom: 20
 
 # Extensions
 

@@ -45,9 +45,7 @@ social:
 - icon: at
   icon_pack: fas
   link: 'mailto: trottadavide92@gmail.com'
-#- icon: address-card
-#  icon_pack: far
-  #link: uploads/curriculum.pdf
+
   
   
 # Link to a PDF of your resume/CV.
@@ -64,4 +62,6 @@ email: "trottadavide92@gmail.com"
  
 highlight_name: true
 ---
+
+I am a mathematician, and my research is mainly focused on categorical logic and its applications in theoretical computer science. 
 
