@@ -6,11 +6,11 @@ title: Davide Trotta
 superuser: true
 
 # Role/position/tagline
-role: Postdoc
+role: Assistant professor (RTDA)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: University of Pisa
+- name: University of Padova
   
 
 # Short bio (displayed in user profile at end of posts)
