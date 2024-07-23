@@ -7,15 +7,26 @@ main:
   - name: Home
     url: '#about'
     weight: 10
+  - name: News
+    url: '#news'
+    weight: 20
   - name: Publications
     url: '#publications'
-    weight: 20
+    weight: 30
   - name: Preprints
     url: '#preprints'
-    weight: 30
+    weight: 40
   - name: Talks
     url: '#talks'
-    weight: 40
+    weight: 50
+  - identifier: teaching
+    name: Teaching
+    url: /teaching/
+    weight: 60
+  
+    
+
+
   #- name: Posts
   #  url: '#posts'
   #  weight: 50
