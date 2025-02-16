@@ -14,7 +14,7 @@ authors:
 
 
 date: "2025"
-doi: ""
+doi: "10.46298/lmcs-21(1:15)2025"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2025-01-05"
@@ -26,7 +26,7 @@ publishDate: "2025-01-05"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Logical Methods in Computer Science (to appear)*
+publication: In *Logical Methods in Computer Science*
 
 
 
