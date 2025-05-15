@@ -6,6 +6,7 @@ type: page
 # Order that this section appears on the page.
 weight: 30
 ---
-- **Workshop: [5th ItaCa Workshop](https://progetto-itaca.github.io/ItaCa-24/), Padova (19-20 December)**
+- **New preprint: [A topos for extended Weihrauch degrees](https://arxiv.org/pdf/2505.08697)**
+- **New preprint: [A taxonomy of categories for relations](https://arxiv.org/pdf/2502.10323)**
 
 
