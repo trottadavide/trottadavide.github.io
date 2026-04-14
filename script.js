@@ -63,32 +63,32 @@ function renderEntries(items, targetId) {
   if (!container) return;
   if (!items.length) return renderEmpty(targetId);
 
-container.innerHTML = items.map((item, index) => `
-  <div class="item">
-    <div class="item-title">${index + 1}. ${item.title || ""}</div>
+  container.innerHTML = items.map((item, index) => `
+    <div class="item">
+      <div class="item-title">${index + 1}. ${item.title || ""}</div>
 
-    ${
-      targetId === "talks-list"
-        ? `<div>${item.venue || ""}${item.date ? " (" + item.date.slice(-4) + ")" : ""}${item.place ? " — " + item.place : ""}</div>`
-        : `<div>${
-            item.authors
-              ? item.authors
-                  .replaceAll("Davide Trotta", "<strong>Davide Trotta</strong>")
-                  + (item.year ? " (" + item.year + "). " : ". ")
-              : ""
-          }${item.venue || item.description || ""}</div>
-           <div class="item-meta">${item.date || ""} ${item.place ? "— " + item.place : ""}</div>`
-    }
+      ${
+        targetId === "talks-list"
+          ? `<div>${item.venue || ""}${item.date ? " (" + item.date.slice(-4) + ")" : ""}${item.place ? " — " + item.place : ""}</div>`
+          : `<div>${
+              item.authors
+                ? item.authors
+                    .replaceAll("Davide Trotta", "<strong>Davide Trotta</strong>")
+                    + (item.year ? " (" + item.year + "). " : ". ")
+                : ""
+            }${item.venue || item.description || ""}</div>
+             <div class="item-meta">${item.date || ""} ${item.place ? "— " + item.place : ""}</div>`
+      }
 
-    ${buildInlineLinks(item, targetId, index)
-      ? `<div class="links">${buildInlineLinks(item, targetId, index)}</div>`
-      : ""}
+      ${buildInlineLinks(item, targetId, index)
+        ? `<div class="links">${buildInlineLinks(item, targetId, index)}</div>`
+        : ""}
 
-    ${item.abstract
-      ? `<div id="${targetId}-abstract-${index}" class="abstract hidden">${item.abstract}</div>`
-      : ""}
-  </div>
-`).join("");
+      ${item.abstract
+        ? `<div id="${targetId}-abstract-${index}" class="abstract hidden">${item.abstract}</div>`
+        : ""}
+    </div>
+  `).join("");
 }
 
 function toggleAbstract(id) {
@@ -102,13 +102,13 @@ async function init() {
 
     if (document.getElementById("news-list")) {
       tasks.push(
-        loadJSON("data/news.json").then(renderNews)
+        loadJSON("/data/news.json").then(renderNews)
       );
     }
 
     if (document.getElementById("publications-list")) {
       tasks.push(
-        loadJSON("data/publications.json").then(publications => {
+        loadJSON("/data/publications.json").then(publications => {
           publications.sort((a, b) => parseInt(b.year || 0) - parseInt(a.year || 0));
           renderEntries(publications, "publications-list");
         })
@@ -117,7 +117,7 @@ async function init() {
 
     if (document.getElementById("preprints-list")) {
       tasks.push(
-        loadJSON("data/preprints.json").then(preprints => {
+        loadJSON("/data/preprints.json").then(preprints => {
           preprints.sort((a, b) => parseInt(b.year || 0) - parseInt(a.year || 0));
           renderEntries(preprints, "preprints-list");
         })
@@ -126,7 +126,7 @@ async function init() {
 
     if (document.getElementById("talks-list")) {
       tasks.push(
-        loadJSON("data/talks.json").then(talks => {
+        loadJSON("/data/talks.json").then(talks => {
           renderEntries(talks, "talks-list");
         })
       );
@@ -134,7 +134,7 @@ async function init() {
 
     if (document.getElementById("teaching-list")) {
       tasks.push(
-        loadJSON("data/teaching.json").then(teaching => {
+        loadJSON("/data/teaching.json").then(teaching => {
           renderEntries(teaching, "teaching-list");
         })
       );
