@@ -59,34 +59,90 @@ section {
   margin-bottom: 56px;
 }
 
-h1, h2, h3 {
+h1,
+h2,
+h3 {
+  margin-top: 0;
+  line-height: 1.25;
+}
+
+h1 {
+  font-size: 1.9rem;
+  margin-bottom: 8px;
+}
+
+h2 {
+  font-size: 1.5rem;
+  margin-bottom: 18px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #eee;
+}
+
+h3 {
+  font-size: 1.15rem;
+}
+
+p {
   margin-top: 0;
 }
 
 .item {
-  margin-bottom: 20px;
+  margin-bottom: 22px;
 }
 
 .item-title {
-  font-weight: 700;
+  font-weight: 600;
+  font-size: 1.04rem;
+  margin-bottom: 2px;
 }
 
 .item-meta {
   color: #666;
-  font-size: 0.95rem;
+  font-size: 0.88rem;
+  margin-top: 2px;
 }
 
 .links {
-  margin-top: 6px;
+  margin-top: 5px;
+  font-size: 0.92rem;
 }
 
 .links a {
-  margin-right: 14px;
+  margin-right: 0;
 }
 
 .empty {
   color: #777;
   font-style: italic;
+}
+
+.abstract-btn {
+  margin-top: 8px;
+  padding: 0;
+  font-size: 0.95rem;
+  cursor: pointer;
+  background: none;
+  border: none;
+  color: #1565c0;
+}
+
+.abstract-btn:hover {
+  text-decoration: underline;
+}
+
+.abstract {
+  margin-top: 8px;
+  font-size: 0.94rem;
+  line-height: 1.55;
+  color: #333;
+}
+
+.hidden {
+  display: none;
+}
+
+strong {
+  font-weight: 700;
 }
 
 @media (max-width: 900px) {
@@ -101,5 +157,10 @@ h1, h2, h3 {
   .content {
     margin-left: 0;
     padding: 24px;
+  }
+
+  .profile-img {
+    width: 130px;
+    height: 130px;
   }
 }
