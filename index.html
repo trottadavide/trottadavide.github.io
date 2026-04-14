@@ -6,30 +6,51 @@
   <title>Davide Trotta</title>
   <meta name="description" content="Personal academic webpage of Davide Trotta">
   <link rel="stylesheet" href="style.css">
+
+  <script>
+    // Rimuove index.html e .html dagli URL
+    (function() {
+      let path = window.location.pathname;
+
+      if (path.endsWith("index.html")) {
+        window.location.replace(path.replace("index.html", ""));
+      }
+
+      if (path.endsWith(".html")) {
+        window.location.replace(path.replace(".html", ""));
+      }
+    })();
+  </script>
 </head>
+
 <body>
   <aside class="sidebar">
     <img src="static_assets/img/profile.jpg" alt="Davide Trotta" class="profile-img">
     <h1>Davide Trotta</h1>
     <p class="role">Assistant Professor (RTDA)</p>
+
     <p>
       Department of Mathematics “Tullio Levi-Civita”<br>
       University of Padova
     </p>
-    <p><a href="mailto:trottadavide92@gmail.com">trottadavide92@gmail.com</a></p>
+
+    <p>
+      <a href="mailto:trottadavide92@gmail.com">trottadavide92@gmail.com</a>
+    </p>
 
     <nav>
       <a href="/">Home</a>
-      <a href="publications.html">Publications</a>
-      <a href="preprints.html">Preprints</a>
-      <a href="talks.html">Talks</a>
-      <a href="teaching.html">Teaching</a>
+      <a href="/publications">Publications</a>
+      <a href="/preprints">Preprints</a>
+      <a href="/talks">Talks</a>
+      <a href="/teaching">Teaching</a>
     </nav>
   </aside>
 
   <main class="content">
     <section id="home">
       <h2>About</h2>
+
       <p>
         I am a mathematician, and my research focuses on categorical logic and its
         applications in theoretical computer science. Primarily, I approach both
