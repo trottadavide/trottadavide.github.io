@@ -1,7 +1,242 @@
 [
   {
-    "title": "Sample talk title",
-    "date": "2026",
-    "place": "University of Padova"
+    "title": "Sheaves, Presheaves and Sheafification in the abstract (invited talk)",
+    "venue": "Categorical Logic Days",
+    "date": "June 2025",
+    "place": ""
+  },
+  {
+    "title": "A topos for extended Weihrauch degress (invited talk)",
+    "venue": "University of Swansea",
+    "date": "May 2025",
+    "place": ""
+  },
+  {
+    "title": "Presheaves, Sheaves and Sheafification via triposes",
+    "venue": "5th ItaCa Workshop",
+    "date": "December 2024",
+    "place": ""
+  },
+  {
+    "title": "Universal properties in computability: a categorical perspective",
+    "venue": "XXVIII Incontro di Logica (AILA2024)",
+    "date": "September 2024",
+    "place": ""
+  },
+  {
+    "title": "Presheaves, Sheaves and Sheafification via triposes",
+    "venue": "Toposes in Mondovì",
+    "date": "September 2024",
+    "place": ""
+  },
+  {
+    "title": "An algebraic analysis of existential quantifiers via Lawvere doctrines",
+    "venue": "Hausdorff Institute",
+    "date": "June 2024",
+    "place": ""
+  },
+  {
+    "title": "Categorifying Computable Reducibilities (invited talk)",
+    "venue": "University of Swansea",
+    "date": "December 2023",
+    "place": ""
+  },
+  {
+    "title": "Generalizzazioni della fascificazione attraverso dottrine di Lawvere",
+    "venue": "XXII Congresso dell’Unione Matematica Italiana",
+    "date": "September 2023",
+    "place": ""
+  },
+  {
+    "title": "On Morita equivalence for pure elementary existential completions",
+    "venue": "108th Peripatetic Seminar on Sheaves and Logic (PSSL108)",
+    "date": "September 2023",
+    "place": ""
+  },
+  {
+    "title": "Sheafification as a geometric tripos-to-topos adjunction",
+    "venue": "International Category Theory Conference (CT2023)",
+    "date": "July 2023",
+    "place": ""
+  },
+  {
+    "title": "Gödel doctrines and Dialectica logical principles (invited talk)",
+    "venue": "ItaCa Fest 2023",
+    "date": "June 2023",
+    "place": ""
+  },
+  {
+    "title": "Sheafification in the abstract (invited talk)",
+    "venue": "Workshop of Doctrines and Fibrations",
+    "date": "June 2023",
+    "place": ""
+  },
+  {
+    "title": "Generalized existential completions and applications (invited talk)",
+    "venue": "The Topos Institute Colloquium",
+    "date": "April 2023",
+    "place": ""
+  },
+  {
+    "title": "Exact Morita equivalence of doctrines and applications",
+    "venue": "XXVII Incontro di Logica (AILA2022)",
+    "date": "September 2022",
+    "place": ""
+  },
+  {
+    "title": "Categorifying Computable Reducibilities",
+    "venue": "Continuity, Computability, Constructivity – From Logic to Algorithms (CCC2022)",
+    "date": "September 2022",
+    "place": ""
+  },
+  {
+    "title": "Abstracting sheafification as a tripos-to-topos adjunction",
+    "venue": "Topology, Algebra, and Categories in Logic (TACL2022)",
+    "date": "June 2022",
+    "place": ""
+  },
+  {
+    "title": "A Presheaf Semantics for Quantified Temporal Logics",
+    "venue": "26th International Workshop on Algebraic Development Techniques (WADT2022)",
+    "date": "June 2022",
+    "place": ""
+  },
+  {
+    "title": "Dialectica logical principles",
+    "venue": "Logical Foundations of Computer Science (LFCS2022)",
+    "date": "January 2022",
+    "place": ""
+  },
+  {
+    "title": "Applications of (weak) generalized existential completions to regular and exact Morita-equivalences (invited talk)",
+    "venue": "2nd ItaCa Workshop",
+    "date": "December 2021",
+    "place": ""
+  },
+  {
+    "title": "Gödeldoctrines and Dialectica logical principles (invited talk)",
+    "venue": "Ottawa Logic seminar",
+    "date": "October 2021",
+    "place": ""
+  },
+  {
+    "title": "Generalized existential completions, regular and exact completions",
+    "venue": "Category Theory 2021 (CT2021)",
+    "date": "September 2021",
+    "place": ""
+  },
+  {
+    "title": "Dialectica logical principles via free categorical constructions",
+    "venue": "Continuity, Computability, Constructivity – From Logic to Algorithms (CCC2021)",
+    "date": "September 2021",
+    "place": ""
+  },
+  {
+    "title": "The Gödel fibration",
+    "venue": "46th International Symposium on Mathematical Foundations of Computer Science (MFCS 2021)",
+    "date": "August 2021",
+    "place": ""
+  },
+  {
+    "title": "The Gödel fibration (invited talk)",
+    "venue": "Logicians in Quarantine",
+    "date": "June 2021",
+    "place": ""
+  },
+  {
+    "title": "The Gödel fibration (invited talk)",
+    "venue": "Category Theory seminars in Cambridge",
+    "date": "May 2021",
+    "place": ""
+  },
+  {
+    "title": "The existential completion, choice principles and applications (invited talk)",
+    "venue": "Bay Area Categories and Types",
+    "date": "December 2020",
+    "place": ""
+  },
+  {
+    "title": "The existential completion, choice principles and applications",
+    "venue": "ItaCa Fest",
+    "date": "November 2020",
+    "place": ""
+  },
+  {
+    "title": "Choice principles via the existential completion",
+    "venue": "Continuity, Computability, Constructivity – From Logic to Algorithms (CCC2020)",
+    "date": "August 2020",
+    "place": ""
+  },
+  {
+    "title": "Hilbert ϵ-operator and existence property in categorical logic",
+    "venue": "University of Verona",
+    "date": "July 2020",
+    "place": ""
+  },
+  {
+    "title": "Unification in the syntactic category and elementary completion",
+    "venue": "University of Padova",
+    "date": "December 2019",
+    "place": ""
+  },
+  {
+    "title": "Existential completion and pseudo-distributive laws: an algebraic approach to the completion of doctrines",
+    "venue": "University of Trento, Oral Defence of the PhD Thesis",
+    "date": "December 2019",
+    "place": ""
+  },
+  {
+    "title": "Doctrines in categorical logic and the existential completion",
+    "venue": "University of Verona",
+    "date": "November 2019",
+    "place": ""
+  },
+  {
+    "title": "Generalized existential completion: an algebraic approach",
+    "venue": "University of Trento",
+    "date": "October 2019",
+    "place": ""
+  },
+  {
+    "title": "The Existential Completion",
+    "venue": "University of Edinburgh, Category Theory 2019",
+    "date": "July 2019",
+    "place": ""
+  },
+  {
+    "title": "Unification in the Syntactic Category and Elementary Completion (invited talk)",
+    "venue": "University of Milan",
+    "date": "June 2019",
+    "place": ""
+  },
+  {
+    "title": "The Existential Completion (invited talk)",
+    "venue": "University of Caserta",
+    "date": "April 2019",
+    "place": ""
+  },
+  {
+    "title": "Property-like 2-Monads and Completions",
+    "venue": "University of Trento",
+    "date": "June 2018",
+    "place": ""
+  },
+  {
+    "title": "Elementary Quotient Completion",
+    "venue": "University of Trento",
+    "date": "November 2017",
+    "place": ""
+  },
+  {
+    "title": "Stability of Coherent Sheaves on Curves",
+    "venue": "University of Verona",
+    "date": "July 2017",
+    "place": ""
+  },
+  {
+    "title": "Cardinal Exponentiation and the Generalized Continuum Hypothesis",
+    "venue": "University of Trento",
+    "date": "May 2017",
+    "place": ""
   }
 ]

@@ -1,8 +1,38 @@
 [
   {
-    "title": "An Algebraic Abstraction of the Localic Sheafification via the Tripos-to-Topos Construction",
-    "authors": "Davide Trotta",
-    "year": "2026",
-    "venue": "Preprint"
+    "title": "A taxonomy of categories for relations",
+    "authors": "Cipriano Junior Cioffo, Fabio Gadducci, Davide Trotta",
+    "year": "2025",
+    "venue": "Preprint",
+    "pdf": "https://arxiv.org/pdf/2502.10323",
+    "bib": "",
+    "doi": "",
+    "slides": "",
+    "video": "",
+    "abstract": "The study of categories abstracting the structural properties of relations has been extensively developed over the years, resulting in a rich and diverse body of work. This paper strives to provide a modern and comprehensive presentation of these ``categories for relations'', including their enriched version, further showing how they arise as Kleisli categories of suitable symmetric monoidal monads. The resulting taxonomy aims at bringing clarity and organisation to the numerous related concepts and frameworks occurring in the literature"
+  },
+  {
+    "title": "A topos for extended Weihrauch degrees",
+    "authors": "Samuele Maschio, Davide Trotta",
+    "year": "2025",
+    "venue": "Preprint",
+    "pdf": "https://arxiv.org/pdf/2505.08697",
+    "bib": "",
+    "doi": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Weihrauch reducibility is a notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multivalued function. It complements the analysis of mathematical theorems done in reverse mathematics, as multi-valued functions on represented spaces can be considered as realizers of theorems in a natural way. Despite the rich literature and the relevance of the applications of category theory in logic and realizability, actually there are just a few works starting to study the Weihrauch reducibility from a categorical point of view. The main purpose of this work is to provide a full categorical account to the notion of extended Weihrauch reducibility introduced by A. Bauer, which generalizes the original notion of Weihrauch reducibility. In particular, we present a tripos and a topos for extended Weihrauch degrees. We start by defining a new tripos, abstracting the notion of extended Weihrauch degrees, and then we apply the tripos-to-topos construction to obtain the desired topos. Then we show that the Kleene-Vesley topos is a topos of j-sheaves for a certain Lawvere-Tierney topology over the topos of extended Weihrauch degrees."
+  },
+  {
+    "title": "Skolem, Gödel and Hilbert fibrations",
+    "authors": "Davide Trotta, Jonathan Weinberger, Valeria de Paiva",
+    "year": "2024",
+    "venue": "Preprint",
+    "pdf": "https://arxiv.org/pdf/2407.15765",
+    "bib": "",
+    "doi": "",
+    "slides": "",
+    "video": "",
+    "abstract": "Grothendieck fibrations are fundamental in capturing the concept of dependency, notably in categorical semantics of type theory and programming languages. A relevant instance are Dialectica fibrations which generalise Gödel's Dialectica proof interpretation and have been widely studied in recent years. We characterise when a given fibration is a generalised, dependent Dialectica fibration, namely an iterated completion of a fibration by dependent products and sums (along a given class of display maps). From a technical perspective, we complement the work of Hofstra on Dialectica fibrations by an internal viewpoint, categorifying the classical notion of quantifier-freeness. We also generalise both Hofstra's and Trotta et al.'s work on Gödel fibrations to the dependent case, replacing the class of cartesian projections in the base category by arbitrary display maps. We discuss how this recovers a range of relevant examples in categorical logic and proof theory. Moreover, as another instance, we introduce Hilbert fibrations, providing a categorical understanding of Hilbert's ε- and τ-operators well-known from proof theory."
   }
 ]
