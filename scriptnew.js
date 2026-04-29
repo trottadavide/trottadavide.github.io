@@ -21,9 +21,12 @@ function normalizeLink(key, value) {
     return `https://doi.org/${doi}`;
   }
 
-  return v;
-}
+  if (v.startsWith("http://") || v.startsWith("https://") || v.startsWith("/")) {
+    return v;
+  }
 
+  return `/${v}`;
+}
 function renderEmpty(containerId) {
   const container = document.getElementById(containerId);
   if (!container) return;
