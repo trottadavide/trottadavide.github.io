@@ -1,4 +1,19 @@
 [
+  {  "title": "A topos for extended Weihrauch degrees",
+    "authors": "Samuele Maschio, Davide Trotta",
+    "year": "2026",
+    "venue": "Annals of Pure and Applied Logic",
+    "pdf": "https://pdf.sciencedirectassets.com/271596/1-s2.0-S0168007226X20036/1-s2.0-S0168007226000643/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEAwaCXVzLWVhc3QtMSJGMEQCIAE2PBLuMWAXto8vzOBlqnQVkaXXB8ObosyyWeUfhc0sAiBp9bGfKVOI2lTSwQHHmhGEQOJaTvEYxijAsWzaWHpldSq8BQjV%2F%2F%2F%2F%2F%2F%2F%2F%2F%2F8BEAUaDDA1OTAwMzU0Njg2NSIMkkJLr2o4%2FHkZDAE1KpAF9WdDbWJ7O9YSSDmGI734%2BmlpBgGoOSSxL%2B9OpkJUWYuJA79TQ3fksENc7n%2BZVCALWuyFchQXVXWOt39ElA0vA9XqnCGKAGFgwDQo87GPod8QMM2pVd67Ote%2FCjcQ54tKU%2BqqC2tCTIiCvXvNMoQbjmMfOaq7TqXlDyYpZGGOZ16ybUHxV7biMqUPVzAhBzveTmQ%2F0zR0ErxFrY%2FJ3KN3pUZP1ly7pNoPU%2FQE%2Bguw74rfo3uYZ1BXkf9898Ugk8PQgw86dd%2FJXTVQ9CBqH9LHIX%2Bt7SY%2ByQW8Dsx06Kvb%2BM5O%2FvuXi657jM0v7Y3ofTijtIPH6r%2FP0AcIcZfoqKeWmqFunNunpm0yYDM68DIzQeSjO7nU37tb0r%2BR6y5SvIJ3BNk0XU8BLbtEvjkySNwCSrz6qzQ0%2B4Y2lihvf8daG%2BBSNFsvHEf0uqm%2BHhw5nAH0NecdK7iCUftd%2F%2B1gjuvB9xySHg%2F%2FcUP7HmdPP51Qa6IOdjINOa%2FvOFHWpZOBn123hetQmg4%2BLVIwrc2VanbDzWgfr%2BIQyL1%2BlTgzRPSzRYYnDrvj2trJLf6RC4KrHi6IrfrMsc0zAEX%2BG7OXeFbCaUr5oVtLSsSV%2Bbd4yXEqwts1odPcrcGs%2FYHowPbJAAGdmCEIyqECawPnP901EG%2B1q61JrX%2BFv5AHDLRspkWt2iH%2FVVZQBOAUWwx09cKuSUPDKko555t0w644bjNB6PzrNWuOi9VB3xahEkwHhz62mBWJhfRigxl6fs5IYtGIqkL%2F%2FHmT%2BtKU%2BLgGVCa%2Bo%2Bc49BPKFf0S70Vy5JN%2FxlywsUmtM7FT86oPsqPMumUllm35CNGT9%2FFfOxF5mtK%2FT8egDH63ZbY5C0g9cXCP9jI66QQw%2BPT4zwY6sgGITu1sLwMU4T6bLvdnLshN3QqOS%2F6vWgKndPiaW1TvWAY2HJNQ7vwIr3dwNokK8bWl2sAhfc8IkAn%2BVXxK%2F1b%2BwV2eP6i8GPYgxYWZoPdyFqLOOrUb3seq22RpuelbJD5fmLH7lF1TR9M%2FbL%2FQA7OFyOXLEo0abp80o6QQ1JnVW%2FyGHNbq1SXoldvLq287YpL%2B4f8764nug0P0plfESH%2BcWF9H3xgEjBbjIpmZeACJfskw&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260508T203845Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYQDURBEV5%2F20260508%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=71fa8b18972494eceaa57269d02c55f635577c62434949afb2cb1dd6d1d64517&hash=c290d776f61bdeef7ddea602c0f752978686177f6b6e095110bb803bfb91e5fa&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0168007226000643&tid=spdf-406f83c6-0289-4bc1-99cc-6461d3431426&sid=6821bd4d429bc74e3e3b95987e7a97341f86gxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=13125b06580055545e5d54&rr=9f8b45183888bb20&cc=it",
+    "bib": "static_assets/bib/Pubb_17.bib",
+    "doi": "https://doi.org/10.1016/j.apal.2026.103781",
+    "slides": "",
+    "video": "",
+    "abstract": "Weihrauch reducibility is a notion of reducibility between computational problems that is useful to calibrate the uniform computational strength of a multi-valued function. It complements the analysis of mathematical theorems done in reverse mathematics, as multi-valued functions on represented spaces can be considered as realizers of theorems in a natural way. Despite the rich literature and the relevance of the applications of category theory in logic and realizability, actually there are just a few works starting to study the Weihrauch reducibility from a categorical point of view. The main purpose of this work is to provide a full categorical account of the notion of extended Weihrauch reducibility introduced by A. Bauer, which generalizes the original notion of Weihrauch reducibility. In particular, we present a tripos and a topos for extended Weihrauch degrees. We start by defining a new tripos, abstracting the notion of extended Weihrauch degrees, and then we apply the tripos-to-topos construction to obtain the desired topos. Then we show that the Kleene-Vesley topos is a topos of j-sheaves for a certain Lawvere-Tierney topology over the topos of extended Weihrauch degrees."
+
+  },
+  
+  
+  
   {
     "title": "Effectiveness and continuity in intuitionistic quasi-toposes of assemblies",
     "authors": "Maria Emilia Maietti, Pietro Sabelli, Davide Trotta",
