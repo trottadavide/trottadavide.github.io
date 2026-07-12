@@ -1,5 +1,20 @@
 [
-  {  "title": "A topos for extended Weihrauch degrees",
+  {
+    "title": "A taxonomy of categories for relations",
+    "authors": "Cipriano Junior Cioffo, Fabio Gadducci, Davide Trotta",
+    "year": "2026",
+    "venue": "Logical Methods in Computer Science",
+    "pdf": "https://arxiv.org/pdf/2502.10323v6",
+    "bib": "static_assets/bib/Pubb_18.bib",
+    "doi": "https://lmcs.episciences.org/18669",
+    "slides": "",
+    "video": "",
+    "abstract": "The study of categories that abstract the structural properties of relations has been extensively developed over the years, resulting in a rich and diverse body of work. This paper strives to provide a modern presentation of these categories for relations, including their enriched version, further showing how they arise as Kleisli categories of symmetric monoidal monads. The resulting taxonomy aims at bringing clarity and organisation to the many related concepts and frameworks occurring in the literature."
+  },
+    
+  
+  {  
+    "title": "A topos for extended Weihrauch degrees",
     "authors": "Samuele Maschio, Davide Trotta",
     "year": "2026",
     "venue": "Annals of Pure and Applied Logic",

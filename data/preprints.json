@@ -1,15 +1,15 @@
 [
   {
-    "title": "A taxonomy of categories for relations",
-    "authors": "Cipriano Junior Cioffo, Fabio Gadducci, Davide Trotta",
+    "title": "An Algebraic Abstraction of the Localic Sheafification via the Tripos-to-Topos Construction",
+    "authors": "Maria Emilia Maietti, Davide Trotta",
     "year": "2025",
     "venue": "Preprint",
-    "pdf": "https://arxiv.org/pdf/2502.10323",
+    "pdf": "https://arxiv.org/pdf/2511.06945",
     "bib": "",
     "doi": "",
     "slides": "",
     "video": "",
-    "abstract": "The study of categories abstracting the structural properties of relations has been extensively developed over the years, resulting in a rich and diverse body of work. This paper strives to provide a modern and comprehensive presentation of these ``categories for relations'', including their enriched version, further showing how they arise as Kleisli categories of suitable symmetric monoidal monads. The resulting taxonomy aims at bringing clarity and organisation to the numerous related concepts and frameworks occurring in the literature"
+    "abstract": "Localic and realizability toposes are two central classes of toposes in categorical logic, both arising through the Hyland-Johnstone-Pitts tripos-to-topos construction. We investigate their shared geometric features by providing an algebraic abstraction of the notions of localic presheaves, sheafification and their connection to supercompactification of a locale via an instance of the Comparison Lemma. This can be applied to a broad class of toposes obtained to the tripos-to-topos constructions, including all those generated from a tripos based on the classical category of ZFC-sets. These results provide a unified geometric framework for understanding localic and realizability toposes."
   },
 
   {
