@@ -1,5 +1,18 @@
 [
   {
+    "title": "On boolean hyperdoctrines and peircean bicategories",
+    "authors": "Filippo Bonchi, Alessandro Di Giorgio, Davide Trotta",
+    "year": "2026",
+    "venue": "Theoretical Computer Science",
+    "pdf": "https://pdf.sciencedirectassets.com/271538/1-s2.0-S0304397526X20199/1-s2.0-S0304397526004184/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjEN3%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJHMEUCIBuk2xvwwLwpg2HUQD9dbOgwScPAz8XedfP4ExRUEh7iAiEAxsfka%2B2ytExM7ECaEzAugb4SaYk4yKQftWTtYNNfvVcquwUIpv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FARAFGgwwNTkwMDM1NDY4NjUiDA4yZtnj43gPWZ0gQiqPBfzW7UvIFE%2BtYUZ4J8IaiK5lm5w1z6ufYEAGmN%2Bkolnjo0s4RUqqTV%2B%2FFpkcMIJ52Kbmp9ZIvN2ALqX%2FEctehoDiomQ5OQoudHuMe%2Bn8m%2Bz%2B%2BoRBrstyoA8cUIHB5FEPV5odVrF43JKHftQqaYJP%2Be1sZDNixCE5Icx3aCYb5mnpQRZr8BOSF0rWA4gX3X9mEah8DGL6wVrxYi2R2CE9C8ONuJEFst0rBBCOlbg5rQYlYns6WD2sfYeyAz1tazWcs71id69Uhw308sOQKpvhFzEuquRIS6HU9X9G7u2lZv0oaFrDTdbuuZUQrBMoxzGD54xAzhePVo%2FVT8%2FkR8MreILMsmxMcM0qM0SBT77jqRipKLk4%2FU%2BrSbjT58lRqnbd%2BPMg1sj42i6Nw2zRKEVBhuQAfiTwCk9sPq%2FPSOz8GY%2BkSnZkQZXCZt42jv0w9oCvxuBQVJpNv7bE52r8bpa81yra9QmKwy%2FCrYsvYQaxLI5BSbZebgwNvO%2B1uePS3aC7jXG6Mq76T70wLeROmKx1OwHGCOzmfJZ%2BpQzke6RqTbsBsuUiwQO2bo8byU%2FbNwIUNyjR%2FBgQ4Ugp1L%2B6JMUfvHQclg8134B%2BdulP7IksGkZI0jmAWJaqHaWMjowxgmJPeC9%2BDFC422llfCxQFV8dSH0Gd5egV0GwzP3%2BNUKL0qvZVU2Ia5jdG%2B0FMf5ajKJolj9X1BiB1aKbcm5gA%2FMpFFSCVeIbYTcjV%2FQ%2FqUYil2NYzvIuVpP%2Fs32%2FR0PA4owDBHf3batCSQlfS%2F7GuYRVh7z7XUM58i6jDOR5zROg2X4By%2B299jJL0YJSdfEqMZS5cKOPefjbvmeIrpENeIvr8CJEuMjj7bU92PjDM0sZoM8wyebJ1QY6sQHiJRSoslw8IAL%2Bjl94efzRmipGvGWkwMK4SYYLPy25J%2B%2BnblpjGaYdF%2FnVytQI5eHQF2I%2BBYptb95XESJDtdtQXRnQCfvcgKykIA2kfCTUe%2BLyvYGvmKWJL5F47mNkEfmfHOnegNnvxuTsYNtHKWRNG3hc%2B0bIQQokeGin7108ENuY%2B%2FhK8ml2zjHKtLfWJoXRRDs91VkWgWBpANK%2Bik3d001DesjdP6KYpD5HTajBcnE%3D&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20260922T134503Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTYSN73EF5Q%2F20260922%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=9d33beca532692b097656bc05b5dda4c02fa059004f50547b8da8e5f486e0d96&hash=138da107fae7ea0a5c0af2eb2db21f93196bb6a14ba906e113fb079bae9ec588&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S0304397526004184&tid=spdf-c10465a1-90ca-4799-a77e-c1b6629cc52b&sid=4bab6f14916c21421c38f3b-e6ec6a4d8dc0gxrqa&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&rh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=0c1605510556050450&rr=a3f1bf7139876130&cc=it",
+    "bib": "static_assets/bib/Pubb_19.bib",
+    "doi": "https://doi.org/10.1016/j.tcs.2026.116189",
+    "slides": "",
+    "video": "",
+    "abstract": "Fo-bicategories can be seen as a categorical version of Peirce's calculus of relations. What makes them particularly interesting is that their rules form a complete system for first-order logic using only equations-no extra logical machinery is needed. In this paper, we show how fo-bicategories relate to Lawvere's hyperdoctrines. To make our main result easier to prove and understand, we introduce a simpler structure called peircean bicategories, which capture the essence of fo-bicategories in a more straightforward way."
+  },
+
+  {
     "title": "A taxonomy of categories for relations",
     "authors": "Cipriano Junior Cioffo, Fabio Gadducci, Davide Trotta",
     "year": "2026",
