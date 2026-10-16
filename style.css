@@ -90,6 +90,17 @@ p {
   margin-bottom: 22px;
 }
 
+.year-heading {
+  margin: 32px 0 16px;
+  padding-bottom: 6px;
+  border-bottom: 1px solid #eee;
+  letter-spacing: 0.03em;
+}
+
+.year-heading:first-child {
+  margin-top: 0;
+}
+
 .item-title {
   font-weight: 600;
   font-size: 1.04rem;

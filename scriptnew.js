@@ -138,7 +138,18 @@ async function init() {
     if (document.getElementById("teaching-list")) {
       tasks.push(
         loadJSON("/data/teaching.json").then(teaching => {
-          renderEntries(teaching, "teaching-list");
+          const container = document.getElementById("teaching-list");
+          const years = [...new Set(teaching.map(t => t.year))]
+            .sort((a, b) => parseInt(b) - parseInt(a));
+
+          container.innerHTML = years.map((year, i) => `
+            <h3 class="year-heading">COURSES ACADEMIC YEAR ${year.replace("/", "-")}</h3>
+            <div id="teaching-list-${i}"></div>
+          `).join("");
+
+          years.forEach((year, i) => {
+            renderEntries(teaching.filter(t => t.year === year), `teaching-list-${i}`);
+          });
         })
       );
     }
