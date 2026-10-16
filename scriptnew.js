@@ -143,7 +143,7 @@ async function init() {
             .sort((a, b) => parseInt(b) - parseInt(a));
 
           container.innerHTML = years.map((year, i) => `
-            <h3 class="year-heading">COURSES ACADEMIC YEAR ${year.replace("/", "-")}</h3>
+            <h3 class="year-heading">Courses Academic Year ${year.replace("/", "-")}</h3>
             <div id="teaching-list-${i}"></div>
           `).join("");
 
